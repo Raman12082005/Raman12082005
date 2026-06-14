@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm an a student at IIIT KOTA, persuing Btech, currently I am in my 2nd year.<br>I am a web Developer and have a goo knowledge of Java Script, HTM, CSS.<br>I am a coding enthusaistic in c++, also familiar to java and python.<br>Currently focussing on Data Structure and Algorithm and Competitive Programming.
+I'm an a student at IIIT KOTA, persuing Btech, currently I am in my 2nd year.<br>I am a web Developer and have a goo knowledge of HTM, CSS and JavaScript.<br>I am a coding enthusaistic in C++, also familiar to java and python.<br>Currently focussing on Data Structure and Algorithm and WebDev.
 
 
 ## 🌐 Socials:
